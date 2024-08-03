@@ -1,6 +1,6 @@
 # netflix-clone
 
-##Netflix clone built using HTML, CSS, and Javascript
+## Netflix clone built using HTML, CSS, and Javascript
 
 ![01](https://github.com/user-attachments/assets/12834d2d-ea3a-48c9-9217-ca285b7398a1)
 
